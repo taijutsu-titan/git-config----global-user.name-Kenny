@@ -1,0 +1,3 @@
+Git config --global user.name "kenny"
+Git config --global user.email ichigohallow12@gmail.com
+Git config --global pull.rebase true
